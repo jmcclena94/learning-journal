@@ -29,4 +29,17 @@ header {
   flex-direction: column;
   color: #F6FFFE; }
 
+.entry-form {
+  margin: 0 auto;
+  width: 35%;
+  flex-direction: column; }
+  .entry-form label {
+    color: #F6FFFE;
+    margin-top: 10%;
+    margin-bottom: 2%; }
+  .entry-form button {
+    width: 30%;
+    margin-top: 2%;
+    align-self: flex-end; }
+
 /*# sourceMappingURL=lj.css.map */

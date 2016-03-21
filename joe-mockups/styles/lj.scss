@@ -44,3 +44,22 @@ header {
     flex-direction: column;
     color: $fontcolor
 }
+
+.entry-form {
+    margin: 0 auto;
+    width: 35%;
+    flex-direction: column;
+
+    label {
+        color: $fontcolor;
+        margin-top: 10%;
+        margin-bottom: 2%
+    }
+
+    button {
+        width: 30%;
+        margin-top: 2%;
+        align-self: flex-end;
+    }
+
+}
